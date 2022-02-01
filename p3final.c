@@ -26,4 +26,4 @@ int main()
   sum=add(n);
   output(sum);
   return 0;
-}
+} 
